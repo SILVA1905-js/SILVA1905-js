@@ -9,9 +9,9 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silva1905-js&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<hr align="center">
+
+</hr>
 
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
